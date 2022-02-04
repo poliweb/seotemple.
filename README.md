@@ -1,5 +1,7 @@
 # SeoTemple
 
+<p align="center"><img src="https://res.cloudinary.com/poliweb/image/upload/c_fit,h_880,w_1660/v1643955262/samples/ScrenShot_i9nrpg.webp" width="100%"></p>
+
 ## Build Setup
 
 ```bash
